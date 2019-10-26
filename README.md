@@ -1,2 +1,2 @@
-# alphatools
+# AlphaMindTools
 AlphaMind trading API
